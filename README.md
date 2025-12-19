@@ -54,6 +54,12 @@
 - 📧 Email: rakindu15@gmail.com
 
 ---
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0A66FF,50:38BDF8,100:7DD3FC&animation=twinkling"
+  />
+</p>
+
 
 <p align="center">
   <i>"Build systems that last. Secure what matters."</i>
