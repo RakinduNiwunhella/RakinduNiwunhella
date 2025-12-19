@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/rakinduniwunhella">
-    <img src="https://komarev.com/ghpvc/?username=rakinduniwunhella&style=flat-square&color=blue" alt="profile views"/>
   </a>
 </p>
 
@@ -38,13 +37,7 @@
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rakinduniwunhella&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🐍 Contribution Graph
 
