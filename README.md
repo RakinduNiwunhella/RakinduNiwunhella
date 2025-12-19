@@ -3,6 +3,7 @@
 <p align="center">
   Computer Science Undergraduate • Software Engineering • Cybersecurity • Machine Learning
 </p>
+<p align="center">Powered by curiosity, caffeine, and a lot of debugging ☕️.</p>
 
 <p align="center">
   <a href="https://github.com/rakinduniwunhella">
@@ -49,7 +50,8 @@
 
 ## 🤝 Connect
 
-- 💼 GitHub: [@rakinduniwunhella](https://github.com/rakinduniwunhella)
+- 🔗 LinkedIn: [Rakindu Niwunhella](https://www.linkedin.com/in/rakindu-niwunhella-388b41307/)
+- 📧 Email: rakindu15@gmail.com
 
 ---
 
