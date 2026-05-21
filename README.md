@@ -1,30 +1,37 @@
 <h1 align="center">Hi, I'm Rakindu Niwunhella 👋</h1>
 
 <p align="center">
-  Computer Science Undergraduate • Software Engineering • Cybersecurity • Machine Learning
+  Computer Science Undergraduate • Software Engineering • Mobile App Development • Cybersecurity • Machine Learning
 </p>
-<p align="center">Powered by curiosity, caffeine, and a lot of debugging ☕️.</p>
 
-<p align="center">
-  <a href="https://github.com/rakinduniwunhella">
-  </a>
-</p>
+<p align="center">Powered by curiosity, caffeine, and a lot of debugging ☕️.</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science undergraduate with a strong technical foundation  
-- 🔐 Interested in **Cybersecurity**, **Software Engineering**, and **Machine Learning**  
-- 🧠 Focused on building **scalable, secure, and well-architected systems**  
-- 📈 Passionate about continuous learning and real-world problem solving  
+- 📱 Interested in **Mobile App Development**, **Software Engineering**, **Cybersecurity**, and **Machine Learning**  
+- 🚀 Building cross-platform applications for **Android and iOS**  
+- 🧠 Focused on creating **scalable, secure, and user-friendly systems**  
+- 📈 Passionate about continuous learning, clean architecture, and real-world problem solving  
+
+---
+
+## 📱 Mobile Development
+
+- 📲 Experience building mobile-focused applications using **React Native**, **Flutter**, and **Android development concepts**
+- 🍎 Familiar with **iOS and Android app development workflows**
+- 🔥 Working with **Firebase**, authentication, cloud storage, and real-time backend services
+- 🧩 Interested in mobile UI/UX, performance, API integration, and secure app architecture
+- 🚀 Exploring mobile deployment, testing, and app store release processes
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,html,css,bootstrap,tailwind,mongodb,mysql,postgres,git,linux,figma,tensorflow,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,dart,flutter,react,js,ts,python,nodejs,html,css,tailwind,bootstrap,firebase,mongodb,mysql,postgres,git,github,linux,figma,tensorflow,opencv&theme=dark" />
 </p>
 
 ---
@@ -37,8 +44,6 @@
 </p>
 
 ---
-
-
 
 ## 🐍 Contribution Graph
 
@@ -54,13 +59,13 @@
 - 📧 Email: rakindu15@gmail.com
 
 ---
+
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0A66FF,50:38BDF8,100:7DD3FC&animation=twinkling"
   />
 </p>
 
-
 <p align="center">
-  <i>"Build systems that last. Secure what matters."</i>
+  <i>"Build systems that last. Secure what matters. Create mobile experiences that scale."</i>
 </p>
